@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Css1</title>
+    <style>
+    .box{
+        width: 31%;
+        padding-bottom:31%;
+        height: 0px;
+        /* border: 1px solid black; */
+        margin: 1%;
+        float: left;
+        border-radius: 10px;
+        background-color: orange
+    }
+    </style>
+</head>
+<body>
+    <div class="box">
+       
+    </div>
+    <div class="box">
+        
+    </div>
+    <div class="box">
+       
+    </div>
+    <div class="box">
+        
+    </div>
+    <div class="box">
+       
+    </div>
+    <div class="box">
+      
+    </div>
+    <div class="box">
+      
+    </div>
+    <div class="box">
+       
+    </div>
+    <div class="box">
+       
+    </div>
+</body>
+</html>
